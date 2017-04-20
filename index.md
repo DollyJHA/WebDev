@@ -56,6 +56,6 @@ function carousel() {
 }
 </script>
 <footer class=" w3-container w3-orange w3-bottom">
-<h6 class="w3-center">CopyRight@Xerox&CTS</h6></footer>
+<h6 class="w3-center">CopyRight</h6></footer>
 </body>
 </html>
